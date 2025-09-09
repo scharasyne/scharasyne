@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to Zarah's Digital Universe! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zarah!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Future+Tech+Leader+%E2%9C%A8" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zarah!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Future+Tech+Leader+%E2%9C%A8" alt="Typing SVG" /> -->
 
 </div>
 
@@ -24,16 +24,16 @@ const zarah = {
     education: "BS Computer Science",
     year: "3rd Year",
     currentFocus: ["Full Stack Development", "Data Structures", "Algorithms"],
-    interests: ["Civic Tech Education", "Full Stack Development", "AI/ML Engineering", "Open Source"]
+    interests: ["Civic Tech Education", "Hackathons", "AI/ML Engineering"]
 };
 ```
 
 ## 🚀 **Current Adventures**
 
-- 🔭 **Working on:** Building amazing web applications and learning new frameworks
-- 🌱 **Learning:** React, Node.js, Python, Database Development, n8n
-- 👯 **Looking to collaborate on:** Open source projects and innovative solutions for hackathons
-- 📫 **Reach me at:** maria.zarahgaas@gmail.com
+- **Working on:** Building amazing web applications and learning new frameworks
+- **Learning:** React, Node.js, Python, Database Development, n8n
+- **Looking to collaborate on:** Open source projects and innovative solutions for hackathons
+- **Reach me at:** maria.zarahgaas@gmail.com
 
 ---
 
@@ -65,7 +65,7 @@ const zarah = {
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+<!-- ## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const zarah = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
