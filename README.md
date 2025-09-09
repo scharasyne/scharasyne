@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+`I'm Zarah, a 3rd year BS in Computer Science Student from University of the Philippines Cebu!`
+
 <!--
 **scharasyne/scharasyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
