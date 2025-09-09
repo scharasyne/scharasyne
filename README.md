@@ -23,8 +23,8 @@ const zarah = {
     pronouns: "she/her",
     education: "BS Computer Science",
     year: "3rd Year",
-    currentFocus: ["Database Development", "Full Stack Development", "Data Structures", "Algorithms"],
-    interests: ["Civic Tech Education", "Mobile and Web Apps", "AI/ML Engineering", "Open Source"]
+    currentFocus: ["Full Stack Development", "Data Structures", "Algorithms"],
+    interests: ["Civic Tech Education", "Full Stack Development", "AI/ML Engineering", "Open Source"]
 };
 ```
 
@@ -32,7 +32,7 @@ const zarah = {
 
 - 🔭 **Working on:** Building amazing web applications and learning new frameworks
 - 🌱 **Learning:** React, Node.js, Python, Database Development, n8n
-- 👯 **Looking to collaborate on:** Open source projects and innovative solutions
+- 👯 **Looking to collaborate on:** Open source projects and innovative solutions for hackathons
 - 📫 **Reach me at:** maria.zarahgaas@gmail.com
 
 ---
@@ -44,7 +44,6 @@ const zarah = {
 ### 🏆 **My GitHub Journey**
 
 <img src="https://github-readme-stats.vercel.app/api?username=scharasyne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scharasyne&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
 </div>
 
