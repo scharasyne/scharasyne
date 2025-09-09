@@ -29,7 +29,7 @@ const zarah = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scharasyne&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharasyne&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharasyne&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="40%"/>
 </div>
 
 <!-- <div align="center">
