@@ -29,11 +29,15 @@ const zarah = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scharasyne&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharasyne&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharasyne&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="45%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scharasyne&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=scharasyne&theme=github-dark&hide_border=true" alt="GitHub Streak" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scharasyne&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
