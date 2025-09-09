@@ -1,6 +1,6 @@
 # Hey, I'm Zarah 👋
 
-**Computer Science Student** • **University of the Philippines Cebu** • **3rd Year**
+<!-- **Computer Science Student** • **University of the Philippines Cebu** • **3rd Year**
 
 Building digital solutions with passion and purpose.
 
@@ -17,7 +17,7 @@ const zarah = {
   interests: ["Civic Tech Education", "Hackathons", "AI/ML Engineering"],
   email: "maria.zarahgaas@gmail.com"
 };
-```
+``` -->
 
 ## Currently
 
