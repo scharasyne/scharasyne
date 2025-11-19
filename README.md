@@ -36,9 +36,9 @@ const zarah = {
   <img src="https://streak-stats.demolab.com/?user=scharasyne&theme=github-dark&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div> -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scharasyne&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=scharasyne&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/> -->
+<!-- </div> -->
 
 ---
 
